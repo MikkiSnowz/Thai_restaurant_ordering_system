@@ -1,0 +1,134 @@
+<data>
+	<detail>
+		<firstname>Tony</firstname>
+		<lastname>Nguyen</lastname>
+		<order>['21.00$ Panang curry', '27.00$ Gang Massaman', '23.00$ Pad Thai', '23.00$ Green Curry', '10% discount', '2% surcharge']</order>
+		<total>107.406</total>
+	</detail>
+	<detail>
+		<firstname>Mike</firstname>
+		<lastname>Pirom</lastname>
+		<order>['21.00$ Panang curry', '23.00$ Green Curry', '23.00$ Pad Thai', '27.00$ Gang Massaman', '27.00$ Gang Massaman', '27.00$ Gang Massaman', '27.00$ Gang Massaman', '27.00$ Gang Massaman', '27.00$ Gang Massaman']</order>
+		<total>229.0</total>
+	</detail>
+	<detail>
+		<firstname>Orange</firstname>
+		<lastname>Namprasit</lastname>
+		<order>['21.00$ Panang curry', '27.00$ Gang Massaman', '20.00$ Pad-Se-Ew', '21.00$ Pad-Gapow', '10% discount', '2% surcharge', '2% surcharge', '2% surcharge', '2% surcharge', '2% surcharge', '2% surcharge', '10% discount']</order>
+		<total>83.921</total>
+	</detail>
+	<detail>
+		<firstname>Tongchew</firstname>
+		<lastname>Rianrukwong</lastname>
+		<order>['20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '2% surcharge']</order>
+		<total>234.6</total>
+	</detail>
+	<detail>
+		<firstname>Fasai</firstname>
+		<lastname>Rianrukwong</lastname>
+		<order>['27.00$ Gang Massaman', '21.00$ Panang curry', '27.00$ Gang Massaman', '23.00$ Pad Thai', '23.00$ Green Curry', '21.00$ Pad-Gapow']</order>
+		<total>142.0</total>
+	</detail>
+	<detail>
+		<firstname>Micky</firstname>
+		<lastname>Anankatham</lastname>
+		<order>['21.00$ Panang curry', '27.00$ Gang Massaman', '23.00$ Pad Thai', '23.00$ Green Curry', '21.00$ Pad-Gapow', '21.00$ Pad-Gapow', '2% surcharge']</order>
+		<total>138.72</total>
+	</detail>
+	<detail>
+		<firstname>John</firstname>
+		<lastname>Smith</lastname>
+		<order>['24.00$ Pad-Kee-Mao', '24.00$ Pad-Kee-Mao', '23.00$ Green Curry']</order>
+		<total>65.0</total>
+	</detail>
+	<detail>
+		<firstname>Mike </firstname>
+		<lastname>Eddy</lastname>
+		<order>['21.00$ Panang curry', '21.00$ Panang curry', '21.00$ Panang curry', '10% discount']</order>
+		<total>56.7</total>
+	</detail>
+	<detail>
+		<firstname>Nicholas</firstname>
+		<lastname>Tran</lastname>
+		<order>['27.00$ Gang Massaman', '23.00$ Pad Thai', '20.00$ Pad-Se-Ew', '23.00$ Green Curry', '10% discount']</order>
+		<total>107.1</total>
+	</detail>
+	<detail>
+		<firstname>savina</firstname>
+		<lastname>ehhehwakawaka</lastname>
+		<order>['21.00$ Panang curry', '23.00$ Green Curry', '20.00$ Pad-Se-Ew', '18.00$ Tom-Yum-Soup', '21.00$ Pad-Gapow', '4.00$ Coca-Cola', '23.00$ Pad Thai', '23.00$ Pad Thai', '23.00$ Green Curry', '21.00$ Panang curry']</order>
+		<total>200.0</total>
+	</detail>
+	<detail>
+		<firstname>Somjit</firstname>
+		<lastname>Smith</lastname>
+		<order>['15.00$ Kaitao', '21.00$ Pad-Gapow', '4.00$ Coca-Cola', '24.00$ Pad-Kee-Mao']</order>
+		<total>61.0</total>
+	</detail>
+	<detail>
+		<firstname>R4HYS</firstname>
+		<lastname>JOHN</lastname>
+		<order>['23.00$ Pad Thai', '20.00$ Pad-Se-Ew', '23.00$ Green Curry', '21.00$ Panang curry', '24.00$ Pad-Kee-Mao', '4.00$ Coca-Cola', '2% surcharge', '2% surcharge', '2% surcharge', '2% surcharge', '10% discount', '10% discount']</order>
+		<total>100.829</total>
+	</detail>
+	<detail>
+		<firstname>dfsadf</firstname>
+		<lastname>xzczxczxczsd</lastname>
+		<order>['4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola']</order>
+		<total>16.0</total>
+	</detail>
+	<detail>
+		<firstname>Bob</firstname>
+		<lastname>Smith</lastname>
+		<order>['21.00$ Panang curry', '23.00$ Pad Thai', '24.00$ Pad-Kee-Mao', '15.00$ Kaitao', '20.00$ Yempura Vegetables', '20.00$ Pad-Se-Ew', '10% discount', '2% surcharge']</order>
+		<total>108.324</total>
+	</detail>
+	<detail>
+		<firstname>dd</firstname>
+		<lastname>dd</lastname>
+		<order>['21.00$ Panang curry', '21.00$ Panang curry', '27.00$ Gang Massaman', '27.00$ Gang Massaman', '23.00$ Green Curry', '23.00$ Green Curry', '24.00$ Pad-Kee-Mao', '24.00$ Pad-Kee-Mao', '21.00$ Pad-Gapow', '21.00$ Pad-Gapow', '21.00$ Pad-Gapow', '18.00$ Tom-Yum-Soup', '18.00$ Tom-Yum-Soup', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew']</order>
+		<total>329.0</total>
+	</detail>
+	<detail>
+		<firstname>hi</firstname>
+		<lastname>hallo</lastname>
+		<order>['20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '10% discount', '10% discount', '10% discount', '10% discount', '10% discount', '10% discount', '10% discount', '10% discount']</order>
+		<total>79.205</total>
+	</detail>
+	<detail>
+		<firstname>Will </firstname>
+		<lastname>Nguyen </lastname>
+		<order>['21.00$ Panang curry', '27.00$ Gang Massaman', '23.00$ Pad Thai', '23.00$ Green Curry', '10% discount', '2% surcharge']</order>
+		<total>86.292</total>
+	</detail>
+	<detail>
+		<firstname>Nutnicha</firstname>
+		<lastname>Rianrukwong</lastname>
+		<order>['23.00$ Pad Thai', '27.00$ Gang Massaman', '23.00$ Green Curry', '24.00$ Pad-Kee-Mao', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '20.00$ Pad-Se-Ew', '20.00$ Pad-Se-Ew', '10% discount', '2% surcharge']</order>
+		<total>135.864</total>
+	</detail>
+	<detail>
+		<firstname>g</firstname>
+		<lastname>g</lastname>
+		<order>['4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '4.00$ Coca-Cola']</order>
+		<total>60.0</total>
+	</detail>
+	<detail>
+		<firstname>John</firstname>
+		<lastname>Smith</lastname>
+		<order>['27.00$ Gang Massaman', '20.00$ Pad-Se-Ew', '21.00$ Pad-Gapow', '24.00$ Pad-Kee-Mao', '15.00$ Kaitao', '4.00$ Coca-Cola', '10% discount']</order>
+		<total>120.6</total>
+	</detail>
+	<detail>
+		<firstname>hhh</firstname>
+		<lastname>hh</lastname>
+		<order>['23.00$ Green Curry', '23.00$ Green Curry', '23.00$ Green Curry', '23.00$ Green Curry']</order>
+		<total>92.0</total>
+	</detail>
+	<detail>
+		<firstname>Anthony</firstname>
+		<lastname>Masgalas</lastname>
+		<order>['23.00$ Green Curry', '23.00$ Pad Thai', '4.00$ Coca-Cola', '4.00$ Coca-Cola', '18.00$ Tom-Yum-Soup', '2% surcharge']</order>
+		<total>73.44</total>
+	</detail>
+</data>
